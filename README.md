@@ -1,5 +1,5 @@
-#  Rafael Ildefonso
-## Transformando desafios em inovações 
+# Rafael Ildefonso
+## Turning Challenges into Innovations
 
 <!-- badges -->
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
@@ -11,17 +11,17 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)]()
 
-Desenvolvedor ainda no ensino médio, mas criando **soluções reais** com **apps, automação, IA e produtos que geram valor**.  
+Developer still in high school, but already building **real-world solutions** with **apps, automation, AI, and products that create value**.
 
-## 🔨 O que eu faço
-- Crio apps completos (frontend + backend + automações)  
-- Trabalho com Flutter, React, JS, Python, SQL  
-- Infra: Docker, Linux, ERPNext, servidores  
-- Integração de IA em projetos e produtos   
+## 🔨 What I Do
+- Build complete applications (frontend + backend + automation)
+- Work with Flutter, React, JavaScript, Python, and SQL
+- Infrastructure: Docker, Linux, ERPNext, and servers
+- Integrate AI into projects and products
 
-## 🎯 Meu objetivo
-Criar produtos que **resolvem problemas de verdade** e construir minha primeira empresa cedo.
+## 🎯 My Goal
+To create products that **solve real problems** and build my first company early.
 
-## 📬 Contato
+## 📬 Contact
 Email: rafaelfurtado313@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/rafael-ildefonso/](https://www.linkedin.com/in/rafael-ildefonso/)
