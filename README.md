@@ -12,4 +12,5 @@ Full Stack Developer still in  high school, but already building **real-world so
 ## Contact
 Email: rafaelfurtado313@gmail.com  
 LinkedIn: [linkedin.com/in/rafael-ildefonso/](https://www.linkedin.com/in/rafael-ildefonso/)
+
 Portfolio: [rafaelildefonso.vercel.app/](https://rafaelildefonso.vercel.app/)
