@@ -1,12 +1,11 @@
 # Rafael Ildefonso
 ## Turning the impossible into reality
 
-Full Stack Developer still in  high school, but already building **real-world solutions** with **apps, automation, AI, and products that create value**.
+Full Stack Developer building **real-world solutions** with **apps, automation, AI, and products that create value**.
 
 ## What I Do
 - Build complete applications
-- Work with Flutter, React, JavaScript, Python, and SQL
-- Infrastructure: Docker, Linux, ERPNext, and servers
+- Do business
 - Integrate AI into projects and products
 
 ## Contact
@@ -14,3 +13,5 @@ Email: rafaelfurtado313@gmail.com
 LinkedIn: [linkedin.com/in/rafael-ildefonso/](https://www.linkedin.com/in/rafael-ildefonso/)
 
 Portfolio: [rafaelildefonso.vercel.app/](https://rafaelildefonso.vercel.app/)
+
+<img src="marco_um.png" width="100" />
