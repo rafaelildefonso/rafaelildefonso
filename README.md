@@ -1,7 +1,7 @@
 # Rafael Ildefonso
 ## Turning the impossible into reality
 
-<img src="marco_um.png" width="100" />
+<img src="marco_um.png" width="50" />
 
 Full Stack Developer building **real-world solutions** with **apps, automation, AI, and products that create value**.
 
