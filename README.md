@@ -1,7 +1,10 @@
 # Rafael Ildefonso
 ## Turning the impossible into reality
 
-<img src="marco_um.png" width="50" />
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+  <img src="marco_um.png" width="50" />
+</div>
+
 
 Full Stack Developer building **real-world solutions** with **apps, automation, AI, and products that create value**.
 
