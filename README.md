@@ -3,6 +3,7 @@
 
 <div style="display: flex; gap: 20px; justify-content: space-between;">
   <img src="marco_um.png" width="50" />
+  <img src="koda.png" width="50" />
 </div>
 
 
